@@ -1,0 +1,52 @@
+[
+  {
+    "id": 5,
+    "name": "Outdoor & Terrace",
+    "slug": "outdoor",
+    "description": "All-weather low-porosity tiles with elevated slip resistance and thermal resilience.",
+    "heroImage": null,
+    "order": 5,
+    "updatedAt": "2026-10-21T10:47:56.679Z",
+    "createdAt": "2026-10-21T10:47:56.679Z"
+  },
+  {
+    "id": 4,
+    "name": "Commercial & Lobby",
+    "slug": "commercial",
+    "description": "Ultra-durable Double Charge formulations built for heavy daily pedestrian traffic.",
+    "heroImage": null,
+    "order": 4,
+    "updatedAt": "2026-10-21T10:47:56.667Z",
+    "createdAt": "2026-10-21T10:47:56.667Z"
+  },
+  {
+    "id": 3,
+    "name": "Kitchen",
+    "slug": "kitchen",
+    "description": "Stain-resistant hygienic vitrified slabs that shrug off oil splatters and heat.",
+    "heroImage": null,
+    "order": 3,
+    "updatedAt": "2026-10-21T10:47:56.654Z",
+    "createdAt": "2026-10-21T10:47:56.654Z"
+  },
+  {
+    "id": 2,
+    "name": "Bathroom",
+    "slug": "bathroom",
+    "description": "Serene spa-like moisture-resistant surfaces with anti-slip footing and elegant wall punches.",
+    "heroImage": null,
+    "order": 2,
+    "updatedAt": "2026-10-21T10:47:56.640Z",
+    "createdAt": "2026-10-21T10:47:56.640Z"
+  },
+  {
+    "id": 1,
+    "name": "Living Room",
+    "slug": "living-room",
+    "description": "Expansive grand formats and light-amplifying surfaces for gracious hosting.",
+    "heroImage": null,
+    "order": 1,
+    "updatedAt": "2026-10-21T10:47:56.628Z",
+    "createdAt": "2026-10-21T10:47:56.628Z"
+  }
+]

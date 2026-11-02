@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive plan to download, curate, and rebuild the Fresh Ceramics tile catalog from the Google Drive folder. Purges all previous mock/problematic data, extracts exact folder-based taxonomy (Floor vs Wall, finishes, series, cm dimensions, wall sets), optimizes assets, updates the catalog page with a Set/Individual toggle, uniform card heights, and a true-scale comparison modal.",
+  "updatedAt":  "2026-11-02T06:30:55.952737069Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

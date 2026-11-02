@@ -1,0 +1,112 @@
+[
+  {
+    "id": 11,
+    "category": "wall",
+    "widthCm": 30,
+    "heightCm": 20,
+    "label": "20(H) x 30(W) cm",
+    "slug": "20x30",
+    "updatedAt": "2026-10-21T10:47:56.568Z",
+    "createdAt": "2026-10-21T10:47:56.568Z"
+  },
+  {
+    "id": 10,
+    "category": "wall",
+    "widthCm": 40,
+    "heightCm": 25,
+    "label": "25(H) x 40(W) cm",
+    "slug": "25x40",
+    "updatedAt": "2026-10-21T10:47:56.561Z",
+    "createdAt": "2026-10-21T10:47:56.561Z"
+  },
+  {
+    "id": 9,
+    "category": "wall",
+    "widthCm": 45,
+    "heightCm": 30,
+    "label": "30(H) x 45(W) cm",
+    "slug": "30x45",
+    "updatedAt": "2026-10-21T10:47:56.552Z",
+    "createdAt": "2026-10-21T10:47:56.552Z"
+  },
+  {
+    "id": 8,
+    "category": "wall",
+    "widthCm": 50,
+    "heightCm": 30,
+    "label": "30(H) x 50(W) cm",
+    "slug": "30x50",
+    "updatedAt": "2026-10-21T10:47:56.545Z",
+    "createdAt": "2026-10-21T10:47:56.545Z"
+  },
+  {
+    "id": 7,
+    "category": "wall",
+    "widthCm": 60,
+    "heightCm": 30,
+    "label": "30(H) x 60(W) cm",
+    "slug": "30x60",
+    "updatedAt": "2026-10-21T10:47:56.534Z",
+    "createdAt": "2026-10-21T10:47:56.534Z"
+  },
+  {
+    "id": 6,
+    "category": "floor",
+    "widthCm": 20,
+    "heightCm": 120,
+    "label": "20(W) x 120(H) cm",
+    "slug": "20x120",
+    "updatedAt": "2026-10-21T10:47:56.525Z",
+    "createdAt": "2026-10-21T10:47:56.525Z"
+  },
+  {
+    "id": 5,
+    "category": "floor",
+    "widthCm": 30,
+    "heightCm": 30,
+    "label": "30(W) x 30(H) cm",
+    "slug": "30x30",
+    "updatedAt": "2026-10-21T10:47:56.518Z",
+    "createdAt": "2026-10-21T10:47:56.518Z"
+  },
+  {
+    "id": 4,
+    "category": "floor",
+    "widthCm": 40,
+    "heightCm": 40,
+    "label": "40(W) x 40(H) cm",
+    "slug": "40x40",
+    "updatedAt": "2026-10-21T10:47:56.507Z",
+    "createdAt": "2026-10-21T10:47:56.507Z"
+  },
+  {
+    "id": 3,
+    "category": "floor",
+    "widthCm": 60,
+    "heightCm": 60,
+    "label": "60(W) x 60(H) cm",
+    "slug": "60x60",
+    "updatedAt": "2026-10-21T10:47:56.500Z",
+    "createdAt": "2026-10-21T10:47:56.500Z"
+  },
+  {
+    "id": 2,
+    "category": "floor",
+    "widthCm": 80,
+    "heightCm": 80,
+    "label": "80(W) x 80(H) cm",
+    "slug": "80x80",
+    "updatedAt": "2026-10-21T10:47:56.495Z",
+    "createdAt": "2026-10-21T10:47:56.495Z"
+  },
+  {
+    "id": 1,
+    "category": "floor",
+    "widthCm": 60,
+    "heightCm": 120,
+    "label": "60(W) x 120(H) cm",
+    "slug": "60x120",
+    "updatedAt": "2026-10-21T10:47:56.489Z",
+    "createdAt": "2026-10-21T10:47:56.488Z"
+  }
+]

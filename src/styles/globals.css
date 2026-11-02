@@ -1,0 +1,122 @@
+@import 'leaflet/dist/leaflet.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Brand Tokens - Fresh Ceramics Master Build Plan Section 6.1 */
+  --fresh-red: #E30613;     /* Brand Red */
+  --deep-grey: #5E5E5E;     /* Deep Grey K63 */
+  --grey: #B3B3B3;          /* Grey K30 */
+  --ember: #3B0A10;         /* Darkest allowed ground, deep warm red-black */
+  --ember-soft: #5A1219;    /* Secondary ember tone */
+  --stone: #454548;         /* Darkest allowed grey ground */
+  --mist: #F3F3F3;          /* Light surface ground */
+  --paper: #FFFFFF;         /* Pure white */
+  --text: #4A4A4A;          /* Primary body text */
+
+  /* Global Radius: strictly square corners everywhere */
+  --radius: 0px;
+}
+
+/* Base resets & typography rules */
+* {
+  border-radius: 0 !important;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--paper);
+  color: var(--text);
+  font-family: var(--font-montserrat), sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* Hide scrollbar: navigation is mould-controlled, no manual drag-scrolling */
+  scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none;  /* IE/Edge */
+}
+
+/* Hide scrollbar track in WebKit browsers */
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Selection */
+::selection {
+  background-color: var(--fresh-red);
+  color: var(--paper);
+}
+
+/* Kickers */
+.kicker {
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+/* Fluid Hero and Chapter Titles */
+.title-hero {
+  font-size: clamp(2.4rem, 6vw, 6.5rem);
+  line-height: 1.08;
+  font-weight: 300;
+  letter-spacing: -0.02em;
+}
+
+.title-hero strong {
+  font-weight: 600;
+  color: var(--fresh-red);
+}
+
+.title-chapter {
+  font-size: clamp(1.6rem, 3.2vw, 3rem);
+  line-height: 1.15;
+  font-weight: 300;
+  letter-spacing: -0.015em;
+}
+
+.title-chapter strong {
+  font-weight: 600;
+}
+
+/* Bengali typography adjustments */
+html[lang="bn"] body,
+.font-bengali {
+  font-family: var(--font-noto-bengali), var(--font-hind-siliguri), sans-serif;
+  line-height: 1.75;
+}
+
+html[lang="bn"] .title-hero {
+  font-size: clamp(2.55rem, 6.36vw, 6.9rem);
+}
+
+html[lang="bn"] .title-chapter {
+  font-size: clamp(1.7rem, 3.4vw, 3.18rem);
+}
+
+/* Avoid flat black: enforce rule that darkest backgrounds are ember or stone */
+.bg-black {
+  background-color: var(--ember) !important;
+}
+
+/* Smooth scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--mist);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--grey);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--deep-grey);
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 5,
+    "name": "Timber Craft Series",
+    "slug": "timber-craft",
+    "description": "Photorealistic hardwood grain planks with authentic tactile bark ridges in 20x120 format.",
+    "heroImage": null,
+    "updatedAt": "2026-10-21T10:47:56.616Z",
+    "createdAt": "2026-10-21T10:47:56.616Z"
+  },
+  {
+    "id": 4,
+    "name": "Urban Cement Series",
+    "slug": "urban-cement",
+    "description": "Minimalist industrial polished concrete aesthetic for contemporary architectural spaces.",
+    "heroImage": null,
+    "updatedAt": "2026-10-21T10:47:56.605Z",
+    "createdAt": "2026-10-21T10:47:56.605Z"
+  },
+  {
+    "id": 3,
+    "name": "Terrazzo Naturale",
+    "slug": "terrazzo-naturale",
+    "description": "Contemporary speckled aggregates composed of river stone pigments in warm earth tones.",
+    "heroImage": null,
+    "updatedAt": "2026-10-21T10:47:56.595Z",
+    "createdAt": "2026-10-21T10:47:56.595Z"
+  },
+  {
+    "id": 2,
+    "name": "Grand Statuario Series",
+    "slug": "grand-statuario",
+    "description": "Dramatic grey-gold linear veining over pure white porcelain inspired by Italian Apuan marble.",
+    "heroImage": null,
+    "updatedAt": "2026-10-21T10:47:56.585Z",
+    "createdAt": "2026-10-21T10:47:56.585Z"
+  },
+  {
+    "id": 1,
+    "name": "Royal Onyx Series",
+    "slug": "royal-onyx",
+    "description": "Translucent cloud veining and gemological depth for luxury living and master suites.",
+    "heroImage": null,
+    "updatedAt": "2026-10-21T10:47:56.574Z",
+    "createdAt": "2026-10-21T10:47:56.574Z"
+  }
+]

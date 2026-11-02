@@ -1,0 +1,72 @@
+[
+  {
+    "id": 7,
+    "key": "delivery_commitment",
+    "enText": "Delivery within 4 days from authorised and exclusive dealer showrooms.",
+    "bnText": "অনুমোদিত ও এক্সক্লুসিভ ডিলার শোরুম থেকে ৪ দিনের মধ্যে ডেলিভারি।",
+    "asOfDate": "2026",
+    "internalSourceNote": "Logistics SLA (upon stock availability)",
+    "updatedAt": "2026-10-21T10:47:56.762Z",
+    "createdAt": "2026-10-21T10:47:56.762Z"
+  },
+  {
+    "id": 6,
+    "key": "squaring_tech",
+    "enText": "Ultra Fine Squaring Technology so no corner gaps.",
+    "bnText": "আল্ট্রা ফাইন স্কয়ারিং প্রযুক্তি যার ফলে কোণায় কোণায় নিখুঁত মিলন।",
+    "asOfDate": "2026",
+    "internalSourceNote": "Rectification line specs",
+    "updatedAt": "2026-10-21T10:47:56.752Z",
+    "createdAt": "2026-10-21T10:47:56.752Z"
+  },
+  {
+    "id": 5,
+    "key": "export_grade",
+    "enText": "98% A grade export quality.",
+    "bnText": "৯৮% এ গ্রেড রপ্তানি মান।",
+    "asOfDate": "2026",
+    "internalSourceNote": "Automated optical sorting output",
+    "updatedAt": "2026-10-21T10:47:56.729Z",
+    "createdAt": "2026-10-21T10:47:56.729Z"
+  },
+  {
+    "id": 4,
+    "key": "quality_tests",
+    "enText": "14 global standard tests in the factory.",
+    "bnText": "কারখানায় ১৪টি আন্তর্জাতিক মানসম্পন্ন মান নিয়ন্ত্রণ পরীক্ষা।",
+    "asOfDate": "2026",
+    "internalSourceNote": "QC laboratory protocol",
+    "updatedAt": "2026-10-21T10:47:56.709Z",
+    "createdAt": "2026-10-21T10:47:56.709Z"
+  },
+  {
+    "id": 3,
+    "key": "annual_production",
+    "enText": "18.6 million square metres of wall and floor tiles.",
+    "bnText": "প্রতি বছর ১ কোটি ৮৬ লাখ বর্গমিটার দেয়াল ও মেঝের টাইলস উৎপাদন ক্ষমতা।",
+    "asOfDate": "2026",
+    "internalSourceNote": "Plant operational output",
+    "updatedAt": "2026-10-21T10:47:56.702Z",
+    "createdAt": "2026-10-21T10:47:56.702Z"
+  },
+  {
+    "id": 2,
+    "key": "double_charge_first",
+    "enText": "First manufacturer in Bangladesh to produce a full line or all three sizes of Double Charge tiles: 60x60, 80x80 and 60x120 cm.",
+    "bnText": "বাংলাদেশে প্রথম প্রস্তুতকারক যারা ডাবল চার্জ টাইলসের তিনটি সাইজের পূর্ণাঙ্গ লাইন তৈরি করে: ৬০x৬০, ৮০x৮০ এবং ৬০x১২০ সেমি।",
+    "asOfDate": "2026",
+    "internalSourceNote": "Factory production benchmark per Section 3.1",
+    "updatedAt": "2026-10-21T10:47:56.696Z",
+    "createdAt": "2026-10-21T10:47:56.696Z"
+  },
+  {
+    "id": 1,
+    "key": "sales_leadership",
+    "enText": "Highest selling tiles brand in Bangladesh every year since 2023.",
+    "bnText": "২০২৩ সাল থেকে প্রতি বছর বাংলাদেশে সর্বাধিক বিক্রিত টাইলস ব্র্যান্ড।",
+    "asOfDate": "2026",
+    "internalSourceNote": "Confirmed by owner per Section 3.1 of BUILD_PLAN.md",
+    "updatedAt": "2026-10-21T10:47:56.689Z",
+    "createdAt": "2026-10-21T10:47:56.689Z"
+  }
+]

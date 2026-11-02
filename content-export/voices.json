@@ -1,0 +1,35 @@
+[
+  {
+    "id": 3,
+    "name": "Anwarul Karim",
+    "role": "dealer",
+    "location": "Anderkilla, Chattogram",
+    "quote": "The 4-day delivery commitment from the Meghnaghat plant has transformed customer trust across our dealership network.",
+    "photo": null,
+    "sample": true,
+    "updatedAt": "2026-10-21T10:47:56.910Z",
+    "createdAt": "2026-10-21T10:47:56.910Z"
+  },
+  {
+    "id": 2,
+    "name": "Architect Samira Rahman",
+    "role": "designer",
+    "location": "Gulshan, Dhaka",
+    "quote": "For contemporary luxury residences, the 60x120 Double Charge series provides unparalleled haptic elegance, structural stability and authentic stone depth.",
+    "photo": null,
+    "sample": true,
+    "updatedAt": "2026-10-21T10:47:56.895Z",
+    "createdAt": "2026-10-21T10:47:56.895Z"
+  },
+  {
+    "id": 1,
+    "name": "Master Craftsman Kabir Hossain",
+    "role": "fitter",
+    "location": "Dhanmondi, Dhaka",
+    "quote": "আল্ট্রা ফাইন স্কয়ারিং প্রযুক্তির কারণে ফ্রেশ সিরামিকসের প্রতিটি কোণ নিখুঁতভাবে মিলে যায়। দীর্ঘ ২৫ বছরের অভিজ্ঞতায় এই মসৃণতা সত্যিই অতুলনীয়।",
+    "photo": null,
+    "sample": true,
+    "updatedAt": "2026-10-21T10:47:56.883Z",
+    "createdAt": "2026-10-21T10:47:56.883Z"
+  }
+]

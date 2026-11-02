@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3,
+    "title": "Architectural Knowledge & Specification Series",
+    "slug": "knowledge-series",
+    "year": "2025 - 2026",
+    "category": "learning",
+    "summary": "Technical design masterclasses covering large-format slab handling, acoustic tile layouts and seismic load reduction.",
+    "story": "Collaborating with leading architectural faculties and practicing interior architects to elevate material understanding and sustainable specifications.",
+    "coverImage": null,
+    "gallery": [],
+    "video": null,
+    "link": null,
+    "sample": true,
+    "updatedAt": "2026-10-21T10:47:56.945Z",
+    "createdAt": "2026-10-21T10:47:56.945Z"
+  },
+  {
+    "id": 2,
+    "title": "Green Kiln & Surface Water Initiative",
+    "slug": "surface-water-initiative",
+    "year": "2023 - Ongoing",
+    "category": "environment",
+    "summary": "100% surface water recycling and zero black smoke emission at the Meghnaghat manufacturing plant.",
+    "story": "Our state-of-the-art closed-loop water treatment recycling facility prevents groundwater depletion and purifies process water to pristine standards.",
+    "coverImage": null,
+    "gallery": [],
+    "video": null,
+    "link": null,
+    "sample": true,
+    "updatedAt": "2026-10-21T10:47:56.934Z",
+    "createdAt": "2026-10-21T10:47:56.934Z"
+  },
+  {
+    "id": 1,
+    "title": "Craftsmen of Aesthetics (নান্দনিকতার কারিগর)",
+    "slug": "craftsmen-of-aesthetics",
+    "year": "2024 - 2026",
+    "category": "people",
+    "summary": "Nationwide empowerment, safety workshops and advanced installation certification for Bangladesh tile fitters.",
+    "story": "Empowering over 12,000 professional tile fitters across all 64 districts with modern leveling tools, ergonomic safety training and craftsmanship awards.",
+    "coverImage": null,
+    "gallery": [],
+    "video": null,
+    "link": null,
+    "sample": true,
+    "updatedAt": "2026-10-21T10:47:56.921Z",
+    "createdAt": "2026-10-21T10:47:56.921Z"
+  }
+]

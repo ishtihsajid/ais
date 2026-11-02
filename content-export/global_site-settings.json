@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "hotline": "16595",
+  "email": "info@freshceramics.net",
+  "factoryLocation": "Meghnaghat, Sonargaon, Narayanganj, Bangladesh",
+  "headOffice": "Fresh Villa, House 12, Road 11, Block G, Banani, Dhaka, Bangladesh",
+  "legalEntityLine": "Fresh Ceramics is a brand of Meghna Ceramic Industries Ltd.",
+  "wasteAllowancePct": 10,
+  "carEquivalentKg": 1330,
+  "featureVisualizer": false,
+  "socialLinks": [
+    {
+      "id": "6ad898bd12a82a5004e59e00",
+      "platform": "Facebook",
+      "url": "https://facebook.com/freshceramics"
+    },
+    {
+      "id": "6ad898bd12a82a5004e59e01",
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/company/fresh-ceramics"
+    },
+    {
+      "id": "6ad898bd12a82a5004e59e02",
+      "platform": "Instagram",
+      "url": "https://instagram.com/freshceramicsbd"
+    }
+  ],
+  "updatedAt": "2026-10-21T10:49:33.877Z",
+  "createdAt": "2026-10-21T10:47:56.777Z",
+  "globalType": "site-settings"
+}
